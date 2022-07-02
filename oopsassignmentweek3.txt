@@ -1,0 +1,124 @@
+private class SuperDepartment {
+
+	public static void Main String[]args() {
+					
+		String p= new class SuperDepartment()
+		p= departmentName 
+		p.get()
+		return “ Super Department “
+		
+		
+              	String q= new class SuperDepartment()
+		q=getTodaysWork
+ 		q.get()
+		return “ No Work as of now”
+
+              	String r= = new class SuperDepartment()
+		r= getWorkDeadline
+		r.get()
+		return “ Nil “
+
+          	String s= new class SuperDepartment()
+		s= isTodayAHoliday
+		s.get()
+		return “ Today is not a holiday”
+		
+
+		System.out.println(“ Super Department “)
+		System.out.println(“ No Work as of now”)
+		System.out.println(“ Nil “)
+		System.out.println(“ Today is not a holiday”)
+		
+		}
+
+
+
+	public class AdminDepartment extends class SuperDepartment {
+		
+		public static void Main String[]args() {
+			
+			String x= new class AdminDepartment
+			x= departmentName 
+              		x.get()
+			return “ Admin Department “  
+              
+			String y= new class AdminDepartment
+			y= getTodaysWork
+			y.get()
+			return “Complete your documents Submission”
+
+			String z= new class AdminDepartment
+			z= getWorkDeadline
+			z.get()
+			return “ Complete by EOD “
+	
+			System.out.println(“ Admin Department “)
+			System.out.println(“Complete your documents Submission”)
+			System.out.println(“ Complete by EOD “)
+			}
+	
+}
+	public class HrDepartment extends class SuperDepartment {
+		
+		public static void Main String[]args() {
+
+			String obj1= new class HrDepartment
+			obj1= departmentName 
+              		obj1.get()
+			return “ Hr Department “  
+              
+			String obj2= new class HrDepartment
+			obj2= getTodaysWork
+			obj2.get()
+			return “Fill today’s worksheet and mark your attendance”
+
+			String obj3= new class HrDepartment
+			obj3= getWorkDeadline
+			obj3.get()
+			return “ Complete by EOD “
+
+			String obj4= new class HrDepartment
+			obj4= doActivity
+			obj4.get()
+			return “team Lunch"
+			
+			System.out.println(“ Hr Department “)
+			System.out.println(“Fill today’s worksheet and mark your attendance”)
+			System.out.println(“ Complete by EOD “)
+			System.out.println(“team Lunch”)
+			}
+}
+
+	public class TechDepartment extends class SuperDepartment {
+
+		public static void Main String[]args() {
+
+			String a= new class TechDepartment
+			a= departmentName 
+              		a.get()
+			return “ Tech Department “  
+              
+			String b= new class TechDepartment
+			b= getTodaysWork
+			b.get()
+			return “Complete coding of module 1”
+
+			String c= new class TechDepartment
+			c= getWorkDeadline
+			c.get()
+			return “ Complete by EOD “
+
+			String d= new class TechDepartment
+			d= getTechStackInformation
+			obj4.get()
+			return “core Java"
+			
+			System.out.println(“ Tech Department “)
+			System.out.println(“ Complete coding of module 1”)
+			System.out.println(“ Complete by EOD “)
+			System.out.println(“core Java”)
+			}
+
+               }
+
+}
